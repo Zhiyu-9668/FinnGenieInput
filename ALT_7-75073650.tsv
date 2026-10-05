@@ -1,4 +1,4 @@
-CHR	POS	REF	ALT	p_Mean	p_Intercept	p_Slope	p_Variability
+CHR	POS	REF	ALT	p_Mean	p_Baseline	p_Slope	p_Variability
 7	74073662	C	A	0.09388	0.1047	0.088	0.233
 7	74073742	C	A	0.9741	0.9542	0.2913	0.6877
 7	74073747	A	C	0.7554	0.7176	0.5002	0.2207
